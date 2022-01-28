@@ -1,0 +1,7 @@
+torch==1.10.0
+numpy==1.21.4
+opencv-python==4.5.4.58
+imageio==2.10.3
+scikit-image==0.18.3
+scikit-learn==1.0.1
+scipy==1.7.2
